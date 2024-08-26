@@ -1,0 +1,14 @@
+C:\Users\punza\Desktop\TycoonATM\bin\Debug\net8.0\TycoonATM.exe
+C:\Users\punza\Desktop\TycoonATM\bin\Debug\net8.0\TycoonATM.deps.json
+C:\Users\punza\Desktop\TycoonATM\bin\Debug\net8.0\TycoonATM.runtimeconfig.json
+C:\Users\punza\Desktop\TycoonATM\bin\Debug\net8.0\TycoonATM.dll
+C:\Users\punza\Desktop\TycoonATM\bin\Debug\net8.0\TycoonATM.pdb
+C:\Users\punza\Desktop\TycoonATM\obj\Debug\net8.0\TycoonATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\punza\Desktop\TycoonATM\obj\Debug\net8.0\TycoonATM.AssemblyInfoInputs.cache
+C:\Users\punza\Desktop\TycoonATM\obj\Debug\net8.0\TycoonATM.AssemblyInfo.cs
+C:\Users\punza\Desktop\TycoonATM\obj\Debug\net8.0\TycoonATM.csproj.CoreCompileInputs.cache
+C:\Users\punza\Desktop\TycoonATM\obj\Debug\net8.0\TycoonATM.dll
+C:\Users\punza\Desktop\TycoonATM\obj\Debug\net8.0\refint\TycoonATM.dll
+C:\Users\punza\Desktop\TycoonATM\obj\Debug\net8.0\TycoonATM.pdb
+C:\Users\punza\Desktop\TycoonATM\obj\Debug\net8.0\TycoonATM.genruntimeconfig.cache
+C:\Users\punza\Desktop\TycoonATM\obj\Debug\net8.0\ref\TycoonATM.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TycoonATM/1.0.0": {
+        "runtime": {
+          "TycoonATM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TycoonATM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
